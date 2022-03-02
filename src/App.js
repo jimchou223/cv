@@ -98,7 +98,7 @@ function MyApp() {
             <TypeAnimation cursor={true} sequence={["Hey! Its me, Jim", 2000]} wrapper="h1" repeat={1} />
           </div>
 
-          <Grid container sx={{ maxWidth: "500px", margin: "auto", marginTop: "36px", marginBottom: "36px" }} spacing={2}>
+          <Grid container sx={{ maxWidth: "450px", margin: "auto", marginTop: "36px", marginBottom: "36px" }} spacing={2}>
             <AboutMeCard></AboutMeCard>
           </Grid>
         </div>
